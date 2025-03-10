@@ -4,7 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "preinstall": "bash pwd",
+    "preinstall": "bash ls",
     "start": "node server",
     "server": "nodemon server.js"
   },
