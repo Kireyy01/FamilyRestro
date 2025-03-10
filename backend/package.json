@@ -4,6 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
+    "preinstall": "ls",
     "start": "node server",
     "server": "nodemon server.js"
   },
