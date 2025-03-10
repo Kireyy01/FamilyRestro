@@ -4,8 +4,8 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "preinstall": "bash ls",
-   "start": "nodemon --exec node server.js",
+    "preinstall": "bash pwd",
+    "start": "nodemon --exec node server.js",
     "server": "nodemon server.js"
   },
   "author": "",
